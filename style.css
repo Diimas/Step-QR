@@ -56,16 +56,17 @@ body {
 
 /* ---------foooter-------------- */
 .footer {
-    background-color: rgb(36, 36, 36);
+    background-color: rgb(23, 24, 34);
     min-height: 100px;
-    color: rgb(212, 212, 212);
-    padding:20px;
+    color: rgb(241, 241, 241);
+    padding:20px 0 60px 20px;
     font-size: 20px;
 }
 .footer h3{
     padding: 20px 0;
     margin: 0;
     font-size: 28px;
+    color: rgb(103, 105, 124);
 }
 
 
@@ -88,7 +89,7 @@ body {
  }
 
  .footer a {
-     color: rgb(212, 212, 212);
+     color: rgb(241, 241, 241);
      text-decoration: none;
  }
 
