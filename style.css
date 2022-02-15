@@ -17,10 +17,13 @@ body {
     text-align: center;
 }
 .logo {
-    padding-bottom: 20px;
+    padding-bottom: 30px;
+}
+.addres {
+    margin-bottom: 10px;
 }
 #map {
-    height: 300px;
+    height: 450px;
     /* The height is 400 pixels */
     width: 100%;
     /* The width is the width of the web page */
@@ -39,3 +42,7 @@ body {
 /* .galery-first {
     height: 300px;
 } */
+
+.map2 iframe{
+    width: 100%;
+} 
