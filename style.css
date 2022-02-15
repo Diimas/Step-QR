@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    background-color: #fffddd;
+}
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+.logo-main {
+    font-size: 40px;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fd5a31;
+}
+.logo-dis {
+    text-align: center;
+}
+.logo {
+    padding-bottom: 20px;
+}
+#map {
+    height: 300px;
+    /* The height is 400 pixels */
+    width: 100%;
+    /* The width is the width of the web page */
+    margin-bottom: 40px;
+  }
+  /* .map {
+      padding-bottom: 20px;
+  } */
+  .galery img {
+      width: 100%;
+      
+  }
+  .galery-title {
+      font-size: 25px;
+  }
+/* .galery-first {
+    height: 300px;
+} */
